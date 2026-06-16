@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 //LC 43: multiplying 2 strings
-import java.util.*;
-public class LcMultiplyString43
+
+public class Lc43MultiplyString
 {
         void main()
         {
