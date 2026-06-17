@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//LC 43: multiplying 2 strings.
+//LC 43: multiplying 2 strings..
 
 public class Lc43MultiplyString
 {
