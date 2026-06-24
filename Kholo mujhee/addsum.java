@@ -1,7 +1,7 @@
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
-//addsum
+//addsumLT01
 class addsum
 {
     void main()
